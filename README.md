@@ -44,7 +44,7 @@ Este proyecto es una simulación visual de un sistema de **torniquete de acceso*
 ## 📸 Vista previa
 
 <p align="center">
-  <img src="evidencia.gif" alt="Demostración del torniquete en acción" width="600"/>
+  <img src="evidencia1.gif" alt="Demostración del torniquete en acción" width="600"/>
 </p>
 
 🎥 El sistema muestra:
