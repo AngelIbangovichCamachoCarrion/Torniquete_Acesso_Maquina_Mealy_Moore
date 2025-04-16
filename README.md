@@ -43,7 +43,10 @@ Este proyecto es una simulación visual de un sistema de **torniquete de acceso*
 
 ## 📸 Vista previa
 
-🎥 Mira el video demostrativo: [evidencia.mp4](evidencia.mp4)
+🎥 Mira el video demostrativo: 
+<video width="600" controls> <source src="evidencia.mp4" type="video/mp4"> Tu
+navegador no soporta la reproducción de video. </video>
+
 
 ## 🧠 Conceptos aplicados
 
