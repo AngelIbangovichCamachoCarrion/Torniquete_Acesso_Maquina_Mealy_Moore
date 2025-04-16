@@ -43,8 +43,7 @@ Este proyecto es una simulación visual de un sistema de **torniquete de acceso*
 
 ## 📸 Vista previa
 
-> El programa muestra un torniquete con animaciones, luces y pantalla interactiva.  
-> También genera gráficamente los diagramas de estados.
+🎥 Mira el video demostrativo: [evidencia.mp4](evidencia.mp4)
 
 ## 🧠 Conceptos aplicados
 
