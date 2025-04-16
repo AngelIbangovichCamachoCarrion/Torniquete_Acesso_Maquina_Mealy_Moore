@@ -43,9 +43,17 @@ Este proyecto es una simulación visual de un sistema de **torniquete de acceso*
 
 ## 📸 Vista previa
 
+<p align="center">
+  <img src="evidencia.gif" alt="Demostración del torniquete en acción" width="600"/>
+</p>
 
-<video width="600" controls> <source src="evidencia.mp4" type="video/mp4"> Tu navegador no soporta la reproducción de video. </video>
+🎥 El sistema muestra:
 
+- Ingreso progresivo de dinero hasta alcanzar $5.
+- Activación del acceso mediante el botón **PUSH**.
+- Giro del torniquete y luces LED que cambian.
+- Generación visual del autómata (**Moore** o **Mealy**).
+- Alarma si se intenta acceder sin saldo suficiente.
 
 ## 🧠 Conceptos aplicados
 
